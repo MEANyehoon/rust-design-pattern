@@ -1,4 +1,6 @@
 [workspace]
 members = [
-    "factory"
+    "factory",
+    "simple-factory-pattern",
+    "decorator-pattern"
 ]
